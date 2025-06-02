@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'login_screen.dart';
-
+//start page
 class StarterScreen extends StatelessWidget {
   const StarterScreen({super.key});
 
