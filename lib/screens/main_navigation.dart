@@ -4,7 +4,7 @@ import '../ui/profile_screen.dart';
 import '../ui/stats_screen.dart';
 import '../ui/bmi_screen.dart';
 
-// ← Import the new screen
+// ← Import the new screen 
 class MainNavigation extends StatefulWidget {
   const MainNavigation({super.key});
 
