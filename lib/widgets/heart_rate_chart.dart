@@ -5,7 +5,7 @@ class HeartRateChart extends StatelessWidget {
   final List<Map<String, dynamic>> data;
 
   const HeartRateChart({super.key, required this.data});
-
+  // heart rate chart
   @override
   Widget build(BuildContext context) {
     final spots =
